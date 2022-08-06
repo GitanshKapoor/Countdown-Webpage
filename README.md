@@ -9,7 +9,7 @@ You can Visit My Webpage on : https://gitansh.me/Dead-Pixel-Checker
 
 **Language:** HTML, CSS, JS, Jquery.
 
-**Tools:** Sublime Text, VS-Code, Canva, CorelDraw, MS-Paint.
+**IDE/Tools:** Sublime Text, VS-Code, Canva, CorelDraw, MS-Paint.
 
 **Hosting:** Github.
 
