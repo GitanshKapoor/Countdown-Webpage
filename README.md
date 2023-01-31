@@ -2,7 +2,7 @@
 
 Developed a Timer Web App.
 
-You can Visit My Webpage on : https://gitansh.me/Dead-Pixel-Checker
+You can Visit My Webpage on : https://gitansh.tech/Dead-Pixel-Checker
 
 
 ## Tech Stack
